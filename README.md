@@ -5,7 +5,7 @@
 Sono Paolo Palumbo, nato nel 1999, e attualmente frequento il corso di Artificial Intelligence and Data Engineering all'Università di Pisa. Mi sono diplomato al liceo Carlo Lorenzini di Pescia, nell'indirizzo Scientifico con opzione Scienze Applicate.
 
 ## 🛠️ Competenze di Programmazione
-- **Linguaggi:** C, C++, Java
+- **Linguaggi:** C, C++, Python, Rust
 - **Sviluppo Web:** HTML, CSS, PHP, JavaScript
 
 Durante gli anni del liceo, ho sviluppato una passione per il teatro, partecipando al corso pomeridiano offerto dalla scuola. Questa esperienza mi ha aiutato a migliorare le mie abilità di comunicazione e a lavorare efficacemente in team.
@@ -40,3 +40,4 @@ Durante gli anni del liceo, ho sviluppato una passione per il teatro, partecipan
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
